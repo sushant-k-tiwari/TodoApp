@@ -15,4 +15,5 @@
     <string name="let_s_start">Let\'s Start!</string>
     <string name="tasks_list">Tasks List</string>
     <string name="add_task">Add Task</string>
+    <string name="type_your_task">Type your task</string>
 </resources>
